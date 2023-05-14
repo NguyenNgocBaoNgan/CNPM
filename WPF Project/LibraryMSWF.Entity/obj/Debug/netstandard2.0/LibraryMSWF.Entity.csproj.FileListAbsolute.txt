@@ -1,0 +1,58 @@
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.AssemblyReference.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.AssemblyReference.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.AssemblyReference.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.deps.json
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\bin\Debug\netstandard2.0\LibraryMSWF.Entity.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.AssemblyReference.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfoInputs.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.AssemblyInfo.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.csproj.CoreCompileInputs.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.Entity\obj\Debug\netstandard2.0\LibraryMSWF.Entity.pdb

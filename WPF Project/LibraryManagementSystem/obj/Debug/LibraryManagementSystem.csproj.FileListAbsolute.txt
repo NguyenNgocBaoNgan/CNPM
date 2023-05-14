@@ -1,0 +1,324 @@
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\App.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserLogin.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminHome.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserHome.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+C:\Users\ideapad\source\repos\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+C:\Users\ideapad\source\repos\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\App.g.cs
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\App.g.cs
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\App.g.cs
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\App.g.cs
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.BL.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.Entity.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminDetailBook.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\App.g.cs
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem_MarkupCompile.lref
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAccepted.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddBook.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminAddUser.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminBooks.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminDetailBook.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminHome.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminLogin.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminRequests.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminReturn.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateBook.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUpdateUser.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\AdminUsers.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\MainWindow.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserBorrow.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserHome.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserLogin.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\UserTransaction.baml
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.g.resources
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\.NET program\netProject\.net-project\WPF Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb

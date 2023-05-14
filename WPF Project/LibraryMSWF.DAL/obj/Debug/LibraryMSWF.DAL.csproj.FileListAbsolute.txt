@@ -1,0 +1,42 @@
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.AssemblyReference.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+D:\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.AssemblyReference.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\gitProject_2\Library-Management-System-WPF\Library-Management-System-WPF\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.AssemblyReference.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+C:\Users\WIN10PRO\Source\Repos\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll.config
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\bin\Debug\LibraryMSWF.DAL.pdb
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.AssemblyReference.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.csproj.CoreCompileInputs.cache
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.dll
+D:\.NET program\netProject\.net-project\WPF Project\LibraryMSWF.DAL\obj\Debug\LibraryMSWF.DAL.pdb
