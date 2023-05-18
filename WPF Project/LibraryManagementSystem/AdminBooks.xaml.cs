@@ -112,21 +112,19 @@ namespace LibraryManagementSystem
                     //3.Nếu chọn có thì sẽ xoá sách 
                     if(result == MessageBoxResult.Yes) {
                         BookBL bookBL = new BookBL();
-                        bool isDone = bookBL.DeleteBookBL(book.BookId);
-                        if (isDone)
-                        {
-                            string defaultFolder = System.AppDomain.CurrentDomain.BaseDirectory;// lấy vị trí source code                                                                
-                            string path = Path.Combine(defaultFolder+ AdminAddBook.PATH_IMAGE_SAVE);
-                            string image = Path.Combine(path, book.BookImage);
+                        bookBL.DeleteBookBL(book.BookId);
+                        string defaultFolder = System.AppDomain.CurrentDomain.BaseDirectory;// lấy vị trí source code                                                                
+                        string path = Path.Combine(defaultFolder+ AdminAddBook.PATH_IMAGE_SAVE);
+                        string image = Path.Combine(path, book.BookImage);
 
-                            AdminBooks.updateBook = new Book();
+                        AdminBooks.updateBook = new Book();
 
                            
-                            //4.Hiển thị thông báo xoá thành công
-                            MessageBox.Show("Book deleted complete..");
-                            InitializeAdminBooks();
+                       //4.Hiển thị thông báo xoá thành công
+                       MessageBox.Show("Book deleted complete..");
+                       InitializeAdminBooks();
 
-                            try
+                       try
                             {
 
                                 //Xoá hình ảnh của cuốn sách.
@@ -136,10 +134,6 @@ namespace LibraryManagementSystem
                             {
                                 MessageBox.Show(ex.Message);
                             }
-                        }
-                        else
-                        {
-                            MessageBox.Show("Try later..");
                         }
                     }
                 }
