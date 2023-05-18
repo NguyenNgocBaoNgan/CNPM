@@ -113,12 +113,13 @@ namespace LibraryManagementSystem
                                     File.Copy(sourceFile, newImage);//copy hình ảnh từ ngoài vào trong project(để tạo dữ liệu chứa hình ảnh)
                                                                     //File.Delete(oldImage);
                                     AdminBooks.updateBook = new Book();
+                                    File.Delete(oldImage);
                                 }      
                                 
                             }
                             AdminBooks adminBooks = AdminBooks.getInstance();
                             adminBooks.InitializeAdminBooks();
-                            File.Delete(oldImage);
+
                             this.Close();                         
                         }
 
