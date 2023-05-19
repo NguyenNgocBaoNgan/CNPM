@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPg0g9Ch/3O9+swr1HCfOuL54J8+wqhS+jcF7A1+Io1/GlsWPkkrU7VhgQMaXZ5zqglwAR5BcFPVcoBmVoE95w==",
+  "dgSpecHash": "2RX1BJaS0AG9E81vEOZmdbTcEwfFp+96zI/wy3z3kfSNvbLp+f86ePQ3ae7B4qR/u6mn1/Su3WGtZ0nLKStK5g==",
   "success": true,
-  "projectFilePath": "D:\\.NET program\\netProject\\.net-project\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
+  "projectFilePath": "D:\\CNPM\\CNPM\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nganl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nganl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
