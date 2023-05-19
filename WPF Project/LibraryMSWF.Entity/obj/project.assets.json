@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET program\\netProject\\.net-project\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
+      "projectUniqueName": "D:\\CNPM\\CNPM\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
       "projectName": "LibraryMSWF.Entity",
-      "projectPath": "D:\\.NET program\\netProject\\.net-project\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
+      "projectPath": "D:\\CNPM\\CNPM\\WPF Project\\LibraryMSWF.Entity\\LibraryMSWF.Entity.csproj",
       "packagesPath": "C:\\Users\\nganl\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET program\\netProject\\.net-project\\WPF Project\\LibraryMSWF.Entity\\obj\\",
+      "outputPath": "D:\\CNPM\\CNPM\\WPF Project\\LibraryMSWF.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
